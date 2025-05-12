@@ -2,5 +2,3 @@
 
 This is the first page for Component A.
 You can add more content here.
-
-xref:nav.adoc[Navigation]
